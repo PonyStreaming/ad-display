@@ -2,6 +2,7 @@ body {
     padding: 0;
     margin: 0;
     overflow: hidden;
+    background-color: #42210b;
 }
 
 .ad-image {
@@ -12,7 +13,7 @@ body {
     top: 0;
     left: 0;
     transition: opacity 300ms;
-    background-color: white;
+    background-color: #42210b;
 }
 
 div {
